@@ -1,0 +1,91 @@
+aid: genesis-healthcare
+name: Genesis Healthcare
+description: >-
+  Genesis Healthcare is a Kennett Square, Pennsylvania based provider of
+  skilled nursing, transitional care, rehabilitation, and assisted/senior
+  living services, operating roughly 175 to 200 centers across 17 to 18
+  US states with about 27,000 employees serving more than 15,000 residents.
+  Once one of the largest skilled nursing facility operators in the United
+  States, Genesis Healthcare, Inc. filed for Chapter 11 bankruptcy
+  protection on July 9, 2025 in the US Bankruptcy Court, citing pandemic
+  aftereffects, inadequate Medicaid reimbursement, legacy liabilities from
+  prior expansion, and roughly USD 8 million per month in litigation
+  defense costs against more than 200 pending malpractice and wrongful
+  death claims. At filing the company reported approximately USD 708
+  million in secured debt, more than USD 1.5 billion in unsecured debt,
+  and at least USD 259 million owed to malpractice plaintiffs. After the
+  bankruptcy court rejected an insider stalking horse bid from ReGen
+  Healthcare / Pinta Capital Partners in December 2025, a roughly
+  USD 1 billion sale to a NewGen Health backed buyer operating as
+  "101 West State Street" was approved in January 2026, with the
+  restructuring still in progress as of this profile. No public developer
+  APIs, OpenAPI specifications, SDKs, GitHub organization, or developer
+  portal have been identified for Genesis Healthcare; the company is a
+  healthcare operator, not an API provider, and its public web presence
+  is limited to a corporate brochure site, careers portal, and compliance
+  hotline.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Healthcare
+  - Skilled Nursing
+  - Rehabilitation
+  - Senior Living
+  - Long Term Care
+  - Chapter 11
+  - Restructuring
+  - Distressed
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/genesis-healthcare/refs/heads/main/apis.yml
+created: '2026-05-05'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.genesishcc.com/
+  - type: About
+    url: https://www.genesishcc.com/about
+  - type: Careers
+    url: https://www.genesishcc.com/careers
+  - type: Contact
+    url: https://www.genesishcc.com/contact
+  - type: Compliance
+    url: https://www.genesishcc.com/compliance
+  - type: Privacy
+    url: https://www.genesishcc.com/privacy
+  - type: Legal
+    url: https://www.genesishcc.com/legal
+  - type: Sitemap
+    url: https://www.genesishcc.com/sitemap
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/genesis-healthcare
+  - type: Facebook
+    url: https://www.facebook.com/genesishcc
+x-status:
+  state: distressed
+  event: Chapter 11 bankruptcy filing
+  filing-date: '2025-07-09'
+  court: US Bankruptcy Court
+  secured-debt-usd: 708000000
+  unsecured-debt-usd: 1500000000
+  malpractice-claims-usd: 259000000
+  pending-lawsuits: 200
+  monthly-litigation-cost-usd: 8000000
+  facilities: 175
+  states: 18
+  employees: 27000
+  residents: 15000
+  sale-approved-date: '2026-01'
+  sale-value-usd: 1000000000
+  buyer: 101 West State Street (NewGen Health backed)
+  rejected-bidder: ReGen Healthcare / Pinta Capital Partners
+  references:
+    - https://skillednursingnews.com/2025/07/skilled-nursing-giant-genesis-healthcare-files-for-chapter-11-bankruptcy/
+    - https://www.mcknights.com/news/breaking-genesis-healthcare-files-for-bankruptcy-nearing-sale/
+    - https://pestakeholder.org/news/genesis-healthcare-files-for-bankruptcy/
+    - https://pestakeholder.org/news/genesis-healthcare-approved-for-sale-to-new-buyer/
+    - https://www.warren.senate.gov/imo/media/doc/letter_on_genesis_healthcare_bankruptcy_10725.pdf
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
