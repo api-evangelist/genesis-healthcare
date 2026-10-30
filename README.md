@@ -1,4 +1,4 @@
-# Genesis Healthcare (genesis-healthcare)
+# Genesis Healthcare
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,94 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Genesis Healthcare is a Kennett Square, Pennsylvania based provider of
-skilled nursing, transitional care, rehabilitation, and assisted/senior
-living services, operating roughly 175 to 200 centers across 17 to 18
-US states with about 27,000 employees serving more than 15,000 residents.
-Once one of the largest skilled nursing facility operators in the United
-States, Genesis Healthcare, Inc. filed for Chapter 11 bankruptcy
-protection on July 9, 2025, capping years of financial distress.
+Genesis Healthcare is a Kennett Square, Pennsylvania based provider of skilled nursing, transitional care, rehabilitation, and assisted/senior living services, operating roughly 175 to 200 centers across 17 to 18 US states with about 27,000 employees serving more than 15,000 residents. Once one of the largest skilled nursing facility operators in the United States, Genesis Healthcare, Inc. filed for Chapter 11 bankruptcy protection on July 9, 2025 in the US Bankruptcy Court, citing pandemic aftereffects, inadequate Medicaid reimbursement, legacy liabilities from prior expansion, and roughly USD 8 million per month in litigation defense costs against more than 200 pending malpractice and wrongful death claims. At filing the company reported approximately USD 708 million in secured debt, more than USD 1.5 billion in unsecured debt, and at least USD 259 million owed to malpractice plaintiffs. After the bankruptcy court rejected an insider stalking horse bid from ReGen Healthcare / Pinta Capital Partners in December 2025, a roughly USD 1 billion sale to a NewGen Health backed buyer operating as "101 West State Street" was approved in January 2026, with the restructuring still in progress as of this profile. No public developer APIs, OpenAPI specifications, SDKs, GitHub organization, or developer portal have been identified for Genesis Healthcare; the company is a healthcare operator, not an API provider, and its public web presence is limited to a corporate brochure site, careers portal, and compliance hotline.
 
-No public developer APIs, OpenAPI specifications, SDKs, GitHub
-organization, or developer portal have been identified for Genesis
-Healthcare. This profile exists to record the company within the API
-Evangelist network and to document its restructuring status.
+**Areas:** Healthcare · Skilled Nursing · Rehabilitation · Senior Living · Long-Term Care · Chapter 11 · Restructuring · Distressed
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/genesis-healthcare/refs/heads/main/apis.yml)
+## Genesis Healthcare on APIs.io
 
-## Scope
+Everything profiled for Genesis Healthcare is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/genesis-healthcare/](https://apis.io/providers/genesis-healthcare/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Status:** Distressed — Chapter 11
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Healthcare
-- Skilled Nursing
-- Rehabilitation
-- Senior Living
-- Long Term Care
-- Chapter 11
-- Restructuring
-- Distressed
+#### Security (1)
 
-## Chapter 11 Restructuring
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Filing date:** 2025-07-09
-- **Court:** US Bankruptcy Court
-- **Secured debt at filing:** ~USD 708 million
-- **Unsecured debt at filing:** ~USD 1.5 billion
-- **Malpractice / wrongful death exposure:** at least USD 259 million across 200+ pending lawsuits
-- **Monthly litigation defense burn:** ~USD 8 million
-- **Cited drivers:** pandemic aftereffects, inadequate Medicaid reimbursement, legacy liabilities from prior expansion, and litigation defense costs
-- **Insider stalking horse bid rejected:** December 2025 — court rejected the proposed sale to ReGen Healthcare / Pinta Capital Partners, citing potential elimination of up to USD 100 million in claims against Genesis insiders
-- **Sale approved:** January 2026 — ~USD 1 billion sale to a NewGen Health backed buyer operating as "101 West State Street"
+- [Genesis Healthcare Domain Security](https://apis.io/security/genesis-healthcare/genesis-healthcare-domain-security/)
 
-### References
+## Where to find this API
 
-- [Skilled Nursing News — Genesis files for Chapter 11](https://skillednursingnews.com/2025/07/skilled-nursing-giant-genesis-healthcare-files-for-chapter-11-bankruptcy/)
-- [McKnight's Long-Term Care News — Genesis bankruptcy, nearing sale](https://www.mcknights.com/news/breaking-genesis-healthcare-files-for-bankruptcy-nearing-sale/)
-- [Private Equity Stakeholder Project — files for bankruptcy](https://pestakeholder.org/news/genesis-healthcare-files-for-bankruptcy/)
-- [Private Equity Stakeholder Project — approved for sale to new buyer](https://pestakeholder.org/news/genesis-healthcare-approved-for-sale-to-new-buyer/)
-- [Senator Warren letter on Genesis Healthcare bankruptcy (PDF)](https://www.warren.senate.gov/imo/media/doc/letter_on_genesis_healthcare_bankruptcy_10725.pdf)
-
-## Timestamps
-
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-23
-
-## APIs
-
-No public APIs have been documented. Genesis Healthcare operates as a
-healthcare services company with no developer portal, no GitHub
-presence, and no machine-readable interfaces published.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.genesishcc.com/)
-- [About](https://www.genesishcc.com/about)
-- [Careers](https://www.genesishcc.com/careers)
-- [Contact](https://www.genesishcc.com/contact)
 - [Compliance](https://www.genesishcc.com/compliance)
-- [Privacy](https://www.genesishcc.com/privacy)
-- [Legal](https://www.genesishcc.com/legal)
-- [Sitemap](https://www.genesishcc.com/sitemap)
-- [LinkedIn](https://www.linkedin.com/company/genesis-healthcare)
-- [Facebook](https://www.facebook.com/genesishcc)
 
-## Notable Absences
+## API Evangelist rating
 
-- No public developer portal
-- No GitHub organization
-- No OpenAPI / AsyncAPI / JSON Schema artifacts
-- No SDKs or CLIs
-- No public Investor Relations site (private; ownership controlled by ReGen Healthcare / Pinta Capital Partners affiliates)
-- No press / news RSS feed
-- No public status page, changelog, or pricing surface
-- No Twitter/X or YouTube footer link
+**Kin Score 6.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
 
-**FN:** Kin Lane
+**Agent readiness 0.0** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/genesis-healthcare/](https://apis.io/providers/genesis-healthcare/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Genesis Healthcare: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/genesis-healthcare/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
